@@ -1,0 +1,52 @@
+[
+	{
+		"Question": "When do you use an 'if-else' statement?",
+		"Answers": ["It's used to create conditions", "It's used to print to a terminal", "It's used to select different options","It's used to create variables"],
+		"correctAnswerIndex": 0
+	},
+	{
+		"Question": "What data type is can only be used to create true or false statements?",
+		"Answers": ["float", "for", "boolean","int"],
+		"correctAnswerIndex": 2
+	},
+	{
+		"Question": "What is an array?",
+		"Answers": ["A line where elements are added at one end and removed from the other", "A data structure, where the last element added and is the first one to be removed.", "A non-linear data structure consisting of vertices and edges","A collection of items of the same variable type that are stored at contiguous memory locations."],
+		"correctAnswerIndex": 3
+	},
+	{
+		"Question": "Which data structure follows LIFO (Last In First Out)?",
+		"Answers": ["Queue", "Stack", "Priority Queue","Graph"],
+		"correctAnswerIndex": 1
+	},
+	{
+		"Question": "What's the difference between a for loop, and a while loop?",
+		"Answers": ["There is no difference", "A for loop is used for fixed iterations; a while loop is used for undefined iterations", "A for loop is used for undefined; a while loop is used for fixed iterations","A for loop updates values; a while loop creates values to be updated"],
+		"correctAnswerIndex": 1
+	},
+	{
+		"Question": "Which operation can be used to iterate an 'int' variable by one?",
+		"Answers": ["==", "-=", "?:","++"],
+		"correctAnswerIndex": 3
+	},
+	{
+		"Question": "Can an 'int' data type accept decimal numbers?",
+		"Answers": ["Yes, because a decimal is an integer", "No, because decimals are determined by the language itself", "No, because the 'int variable only accepts whole numbers","Yes, because the user can change the data type that the number was initialized with"],
+		"correctAnswerIndex": 2
+	},
+	{
+		"Question": "What does a 'switch' statement do?",
+		"Answers": ["It provides an easy way to dispatch execution to different parts of code based on the value of the expression", "It allows the nesting of if statements", "terminates a sequence within a switch statement","All of the above"],
+		"correctAnswerIndex": 0
+	},
+	{
+		"Question": "In a conditional statement, how would one create the 'or' operator?",
+		"Answers": ["==", "||", "&&","<="],
+		"correctAnswerIndex": 1
+	},
+	{
+		"Question": "The 'String' data type can do what?",
+		"Answers": ["Ask for user input", "Create a string of characters", "Print words","Skip conditional statements"],
+		"correctAnswerIndex": 1
+	}
+]
